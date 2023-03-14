@@ -1,2 +1,5 @@
-# The_Tasty_Cakes_Sri_Lanka
-University of Moratuwa (UOM) Open Learning Platform Project
+# The Tasty Cakes Sri Lanka
+* University of Moratuwa (UOM) Open Learning Platform Project
+* Create by using
+  * HTML
+  * CSS
